@@ -71,11 +71,31 @@
   🧠 Exploring algorithmic problem-solving and optimization.<br>
 </p>
 
----
-
-<h2 align="left">🎯 Goals for 2025</h2>
-<p>
-  ✅ Land a software development internship.<br>
-  ✅ Contribute to open-source projects.<br>
-  ✅ Build impactful software solutions that solve real-world problems.<br>
-</p>
+<h3>My Projects</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>📽️ Projects</b></td>
+      <td><b>🛠️ Tools</b></td>
+      <td><b>📚 Features</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/IFDES/Twitter-Model"><b>Twitter Model</b></a></td>
+      <td>
+        <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+        <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+      </td>
+      <td>
+        <ul>
+          <li>Developed a predictive Twitter analysis model using Python.</li>
+          <li>Utilized MongoDB for efficient data storage and management.</li>
+          <li>Implemented features for analyzing user sentiment and tweet patterns.</li>
+          <li>Built scalable data pipelines for large-scale Twitter data ingestion.</li>
+          <li>Future plans include enhancing the model with NLP techniques for improved prediction accuracy.</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
