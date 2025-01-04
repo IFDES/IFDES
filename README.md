@@ -12,7 +12,7 @@
   🔭 I’m currently a second-year Computer Science - Specialization student at the University of Alberta.<br>
   🌱 I’m learning advanced programming concepts, data science, and machine learning.<br>
   💡 I’m passionate about building software solutions and exploring emerging technologies.<br>
-  ⚡ Fun fact: When I’m not coding, you can find me gaming or exploring nature!
+  ⚡ Fun fact: When I’m not coding, you can find me watching soccer and supporting Liverpool!
 </p>
 
 ---
