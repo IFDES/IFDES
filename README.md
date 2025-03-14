@@ -85,12 +85,12 @@
       <td><a href="https://github.com/IFDES/Twitter-Model"><b>Twitter Model</b></a></td>
       <td>
         <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-        <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+        <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
       </td>
       <td>
         <ul>
           <li>Developed a predictive Twitter analysis model using Python.</li>
-          <li>Utilized MongoDB for efficient data storage and management.</li>
+          <li>Utilized SQLite for efficient data storage and management.</li>
           <li>Implemented features for analyzing user sentiment and tweet patterns.</li>
           <li>Built scalable data pipelines for large-scale Twitter data ingestion.</li>
           <li>Future plans include enhancing the model with NLP techniques for improved prediction accuracy.</li>
