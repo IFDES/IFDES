@@ -94,7 +94,7 @@ I'm a fourth-year **Computer Science (Specialization)** student at the **Univers
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>📱 Mood Management App</h3>
+      <h3>📱 <a href="https://github.com/cmput301-w25/project-impostersyndrome">Mood Management App</h3>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
       <ul>
