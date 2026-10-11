@@ -1,101 +1,128 @@
-<h1 align="center">Hi 👋, I'm Ali Zain Malik</h1>
-<h3 align="center">A passionate Computer Science student at the University of Alberta, exploring the vast world of technology and problem-solving!</h3>
+<!-- Header banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:7b2ff7&height=200&section=header&text=Ali%20Zain%20Malik&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%7C%20CS%20@%20University%20of%20Alberta&descAlignY=58&descSize=18" alt="header" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ifdes&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=0E75B6&center=true&vCenter=true&width=620&lines=Building+star+schemas+on+Databricks+%E2%9A%99%EF%B8%8F;Turning+messy+data+into+Power+BI+dashboards+%F0%9F%93%8A;Training+CNNs+and+shipping+full-stack+apps+%F0%9F%A7%A0;Liverpool+fan+since+forever+%E2%9A%BD" alt="Typing SVG" />
+  </a>
+
+  <p>
+    <a href="https://www.linkedin.com/in/ali-zain-malik/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://alizainmalik.com"><img src="https://img.shields.io/badge/Portfolio-7B2FF7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+    <img src="https://komarev.com/ghpvc/?username=ifdes&label=Profile%20views&color=0e75b6&style=for-the-badge" />
+  </p>
+</div>
 
 ---
 
-<h2 align="left">🌟 About Me</h2>
-<p>
-  🔭 I’m currently a fourth-year Computer Science - Specialization student at the University of Alberta.<br>
-  🌱 I’m learning advanced programming concepts, data science, and machine learning.<br>
-  💡 I’m passionate about building software solutions and exploring emerging technologies.<br>
-  ⚡ Fun fact: When I’m not coding, you can find me watching soccer and supporting Liverpool!
-</p>
+## 👋 About Me
+
+I'm a fourth-year **Computer Science (Specialization)** student at the **University of Alberta** (graduating Apr 2027) who likes the unglamorous part of data work: getting messy, million-row sources into a shape people can actually trust and use.
+
+- 🏢 **Right now:** Data Engineer Co-op at **ATCO** (May 2026 – present)
+- 🎓 **Studying:** Machine Learning, Reinforcement Learning, Applied Statistics, Algorithms
+- 🧑‍🏫 **Previously:** Teaching Assistant for CMPUT 174 (120+ students) and Co-President of the Ismaili Students Association (14-member exec)
+- ⚽ **Off the clock:** watching soccer and suffering with Liverpool
 
 ---
 
-<h2 align="left">🤝 Connect With Me</h2>
-<p align="left">
-  <a href="https://www.linkedin.com/in/ali-zain-malik/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
+## 💼 What I'm Doing Now
+
+**Data Engineer Co-op @ ATCO** · Databricks · PySpark · Azure · Oracle · Power BI
+
+- 🧱 Designed a **Kimball star schema** in PySpark on Databricks (Azure), turning raw ingestion pipelines into fact/dimension tables for self-service BI
+- 🔍 Validated **50,000+ curated records** (aggregated from millions of raw rows), cutting reporting discrepancies by **15%**
+- ⚡ Optimized multi-table SQL across millions of rows, reducing manual extraction time by **30%**
+- 📊 Built and maintain **4 Power BI dashboards**, cutting manual reporting turnaround by **25%**
+- 📐 Wrote SQL for **SMRP reliability metrics** used by 10–20 senior stakeholders
+- 🛠️ Configured IBM Maximo Start Centers, improving technician efficiency by **20%**
 
 ---
 
-<h2 align="left">🛠️ Languages and Tools</h2>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> 
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> 
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/> 
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/> 
-  </a>
-</p>
-
----
-
-<h2 align="left">📊 GitHub Stats</h2>
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ifdes&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Top Languages" />
-</p>
+## 🛠️ Tech Stack
 
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ifdes&show_icons=true&locale=en&theme=transparent" alt="GitHub Stats" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,c,react,nodejs,express,django,postgres,mongodb,firebase,pytorch,sklearn,pandas,numpy,azure,git,github,powershell,androidstudio&perline=10" alt="skills" />
 </p>
+
+| | |
+|---|---|
+| **Languages** | Python · SQL · Java · C · JavaScript |
+| **Data & ML** | PySpark · Pandas · NumPy · Scikit-learn · PyTorch · Matplotlib |
+| **Data Platforms** | Databricks · Power BI · Tableau · Excel |
+| **Databases** | Oracle · SQL Server · PostgreSQL · MongoDB · Firestore |
+| **Cloud & Tools** | Azure · Git · IBM Maximo · ServiceNow |
 
 ---
 
-<h2 align="left">🚀 Current Focus</h2>
-<p>
-  🌐 Building projects in Python and Java.<br>
-  📊 Deepening my knowledge in Data Science and Machine Learning.<br>
-  🧠 Exploring algorithmic problem-solving and optimization.<br>
-</p>
+## 🚀 Featured Projects
 
-<h3>My Projects</h3>
 <table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>📽️ Projects</b></td>
-      <td><b>🛠️ Tools</b></td>
-      <td><b>📚 Features</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/IFDES/Twitter-Model"><b>Twitter Model</b></a></td>
-      <td>
-        <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-        <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-      </td>
-      <td>
-        <ul>
-          <li>Developed a predictive Twitter analysis model using Python.</li>
-          <li>Utilized SQLite for efficient data storage and management.</li>
-          <li>Implemented features for analyzing user sentiment and tweet patterns.</li>
-          <li>Built scalable data pipelines for large-scale Twitter data ingestion.</li>
-          <li>Future plans include enhancing the model with NLP techniques for improved prediction accuracy.</li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 <a href="https://github.com/IFDES/Decentralized-Social-Network-Project">Decentralized Social Network</a></h3>
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/DRF-A30000?style=flat-square" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <ul>
+        <li>Federated platform where independent nodes interoperate over REST APIs</li>
+        <li>Cross-server posts, follows, likes, comments, and remote author discovery</li>
+        <li>Public/private visibility controls and an inbox-based delivery pipeline</li>
+        <li>Team project coordinated with GitHub Projects</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 CNN Image Classification</h3>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
+      <ul>
+        <li>CNNs built from scratch with custom training loops and loss functions</li>
+        <li>Diagnosed overfitting via loss curves and confusion matrices</li>
+        <li>Handled class imbalance and compared architectures (CMPUT 466)</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎬 Full-Stack Movie App</h3>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+      <ul>
+        <li>Decoupled frontend/backend with a secure proxy so the TMDB API key is never exposed</li>
+        <li>Axios data layer with consistent error handling and a responsive UI</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📱 Mood Management App</h3>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+      <ul>
+        <li>Real-time Android app on Firestore for storing and analyzing mood data</li>
+        <li>Schema and query optimization improved retrieval performance by ~20%</li>
+        <li>4-person Agile team with unit and UI testing</li>
+      </ul>
+    </td>
+  </tr>
 </table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=IFDES&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IFDES&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IFDES&theme=tokyonight&hide_border=true" alt="streak" />
+</div>
+
+---
+
+<div align="center">
+  <i>Open to Data Engineering, Analytics, and Software roles. Let's talk.</i>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,100:0e75b6&height=100&section=footer" width="100%" />
