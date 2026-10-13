@@ -42,7 +42,7 @@ I'm a fourth-year **Computer Science (Specialization)** student at the **Univers
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,c,react,nodejs,express,django,postgres,mongodb,firebase,pytorch,sklearn,databricks,pandas,numpy,azure,git,github,powershell,androidstudio&perline=10" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,c,react,nodejs,express,django,postgres,mongodb,firebase,pytorch,sklearn,pandas,numpy,azure,git,github,powershell,androidstudio&perline=10" alt="skills" />
 </p>
 
 | | |
