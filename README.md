@@ -72,7 +72,7 @@ I'm a fourth-year **Computer Science (Specialization)** student at the **Univers
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🧠 CNN Image Classification</h3>
+      <h3>🧠 <a href="https://github.com/IFDES/CNN-children-vs-adults">CNN Children-vs-Adults Image Classification</a></h3>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
       <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
       <ul>
