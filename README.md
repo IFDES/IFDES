@@ -1,6 +1,6 @@
 <!-- Header banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:7b2ff7&height=200&section=header&text=Ali%20Zain%20Malik&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%7C%20CS%20@%20University%20of%20Alberta&descAlignY=58&descSize=18" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:7b2ff7&height=200&section=header&text=Ali%20Zain%20Malik&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20CS%20@%20University%20of%20Alberta&descAlignY=58&descSize=18" alt="header" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=0E75B6&center=true&vCenter=true&width=620&lines=Building+star+schemas+on+Databricks+%E2%9A%99%EF%B8%8F;Turning+messy+data+into+Power+BI+dashboards+%F0%9F%93%8A;Training+CNNs+and+shipping+full-stack+apps+%F0%9F%A7%A0;Liverpool+fan+since+forever+%E2%9A%BD" alt="Typing SVG" />
@@ -20,9 +20,9 @@
 I'm a fourth-year **Computer Science (Specialization)** student at the **University of Alberta** (graduating Apr 2027) who likes the unglamorous part of data work: getting messy, million-row sources into a shape people can actually trust and use.
 
 - 🏢 **Right now:** Data Engineer Co-op at **ATCO** (May 2026 – present)
-- 🎓 **Studying:** Machine Learning, Reinforcement Learning, Applied Statistics, Algorithms
+- 🎓 **Studying:** Software Engineering, Machine Learning, Reinforcement Learning, Applied Statistics, Algorithms
 - 🧑‍🏫 **Previously:** Teaching Assistant for CMPUT 174 (120+ students) and Co-President of the Ismaili Students Association (14-member exec)
-- ⚽ **Off the clock:** watching soccer and suffering with Liverpool
+- ⚽ **Off the clock:** Watching soccer and suffering with Liverpool
 
 ---
 
