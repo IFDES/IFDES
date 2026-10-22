@@ -30,12 +30,16 @@ I'm a fourth-year **Computer Science (Specialization)** student at the **Univers
 
 **Data Engineer Co-op @ ATCO** · Databricks · PySpark · Azure · Oracle · Power BI
 
-- 🧱 Designed a **Kimball star schema** in PySpark on Databricks (Azure), turning raw ingestion pipelines into fact/dimension tables for self-service BI
-- 🔍 Validated **50,000+ curated records** (aggregated from millions of raw rows), cutting reporting discrepancies by **15%**
-- ⚡ Optimized multi-table SQL across millions of rows, reducing manual extraction time by **30%**
-- 📊 Built and maintain **4 Power BI dashboards**, cutting manual reporting turnaround by **25%**
-- 📐 Wrote SQL for **SMRP reliability metrics** used by 10–20 senior stakeholders
-- 🛠️ Configured IBM Maximo Start Centers, improving technician efficiency by **20%**
+## 💼 What I'm Doing Now
+
+**Data Engineer Co-op @ ATCO** · Databricks · PySpark · Spark SQL · Azure · Oracle · Power BI
+
+- 🔗 Built a multi-source **Azure Databricks ETL/ELT pipeline** reconciling workforce identities across OFS, UKG, and Maximo at **99% (445/449)**
+- 🧱 Modeled weekly **SMRP Crew Capacity for 438 field resources** with a **Kimball star schema** at person-week/work-group grain
+- ⚡ Optimized multi-million-row Oracle SQL into the EDL, validating **50,000+ records** and cutting extraction time **30%** and discrepancies **15%**
+- 📊 Built **4 Power BI dashboards** for SMRP metrics (Age of Available Work, Work Cycle Time, Schedule Compliance), cutting reporting turnaround **25%**
+
+---
 
 ---
 
