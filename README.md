@@ -28,10 +28,6 @@ I'm a fourth-year **Computer Science (Specialization)** student at the **Univers
 
 ## 💼 What I'm Doing Now
 
-**Data Engineer Co-op @ ATCO** · Databricks · PySpark · Azure · Oracle · Power BI
-
-## 💼 What I'm Doing Now
-
 **Data Engineer Co-op @ ATCO** · Databricks · PySpark · Spark SQL · Azure · Oracle · Power BI
 
 - 🔗 Built a multi-source **Azure Databricks ETL/ELT pipeline** reconciling workforce identities across OFS, UKG, and Maximo at **99% (445/449)**
